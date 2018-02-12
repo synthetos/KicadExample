@@ -10,7 +10,7 @@ _autosave-*
 *.tmp
 
 # Netlist files (exported from Eeschema)
-*.net
+#*.net
 
 # Autorouter files (exported from Pcbnew)
 *.dsn
@@ -19,4 +19,6 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# Other files worth ignoring
 .DS_Store
