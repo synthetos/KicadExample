@@ -1,0 +1,13 @@
+(module Test_Point_SMD_0.040_Top (layer F.Cu) (tedit 57FB5FB9)
+  (descr "Mesurement Point, Round, SMD Pad, DM 1.5mm,")
+  (tags "Mesurement Point Round SMD Pad 1.5mm")
+  (attr virtual)
+  (fp_text reference REF** (at 2.286 0.254) (layer Dwgs.User) hide
+    (effects (font (size 0.635 0.635) (thickness 0.1016)))
+  )
+  (fp_text value Test_Point_SMD_0.040_Top (at 0 -1.27) (layer F.SilkS)
+    (effects (font (size 0.635 0.635) (thickness 0.1016)))
+  )
+  (fp_circle (center 0 0) (end 0.7112 0) (layer F.CrtYd) (width 0.05))
+  (pad 1 smd circle (at 0 0) (size 1.016 1.016) (layers F.Cu F.Mask))
+)

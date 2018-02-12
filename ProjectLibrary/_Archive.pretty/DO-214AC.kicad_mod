@@ -1,0 +1,13 @@
+(module _Passive:DO-214AC (layer F.Cu) (tedit 57770DED)
+  (fp_text reference D9 (at 1.905 -2.0447 180) (layer F.SilkS)
+    (effects (font (size 0.635 0.635) (thickness 0.0762)))
+  )
+  (fp_text value SK310A-TD (at 0.1 -3.7) (layer F.Fab) hide
+    (effects (font (size 0.635 0.635) (thickness 0.0762)))
+  )
+  (fp_line (start 1.7 -3.3) (end 2.3 -3.7) (layer F.SilkS) (width 0.1))
+  (fp_line (start -1.6 -3.3) (end 1.7 -3.3) (layer F.SilkS) (width 0.1))
+  (fp_line (start -2.2 -2.8) (end -1.6 -3.3) (layer F.SilkS) (width 0.1))
+  (pad C smd rect (at 0 -1.905) (size 2.159 1.778) (layers F.Cu F.Paste F.Mask))
+  (pad A smd rect (at 0 1.905) (size 2.159 1.778) (layers F.Cu F.Paste F.Mask))
+)

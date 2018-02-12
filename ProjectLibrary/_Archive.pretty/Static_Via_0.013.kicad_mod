@@ -1,0 +1,10 @@
+(module _Connector:Static_Via_0.013 (layer F.Cu) (tedit 5777CB06)
+  (fp_text reference REF** (at 0.2 -0.9) (layer F.SilkS) hide
+    (effects (font (size 0.508 0.508) (thickness 0.0508)))
+  )
+  (fp_text value "Static Via 0.013" (at 0.1 1) (layer F.Fab) hide
+    (effects (font (size 0.508 0.508) (thickness 0.0508)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.635 0.635) (drill 0.3302) (layers *.Cu)
+    (zone_connect 2))
+)

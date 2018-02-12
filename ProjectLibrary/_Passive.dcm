@@ -1,0 +1,48 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP D_Schottky_CA
+D Diode Schottky
+$ENDCMP
+#
+$CMP D_ZENER
+D Diode Zener
+$ENDCMP
+#
+$CMP ESD9B3.3ST5G
+D Double Diode Schottky (Series)
+K DEV DIODE
+$ENDCMP
+#
+$CMP ESD9X3.3ST5G
+D Double Diode Schottky (Series)
+K DEV DIODE
+$ENDCMP
+#
+$CMP L_BK1005HM471-T
+D Inductor
+$ENDCMP
+#
+$CMP PRTR5V0U2F
+D Diode USB Protection
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP S3A-13-F
+D Double Diode Schottky (Series)
+K DEV DIODE
+$ENDCMP
+#
+$CMP SMAJ30A
+D Double Diode Schottky (Series)
+K DEV DIODE
+$ENDCMP
+#
+#End Doc Library

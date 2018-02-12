@@ -1,0 +1,80 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +VCCmot
+K POWER, PWR
+$ENDCMP
+#
+$CMP +VIOmot
+K POWER, PWR
+$ENDCMP
+#
+$CMP +VSAmot
+K POWER, PWR
+$ENDCMP
+#
+$CMP +Vanalog
+K POWER, PWR
+$ENDCMP
+#
+$CMP +Vmot
+K POWER, PWR
+$ENDCMP
+#
+$CMP +Vmot2
+K POWER, PWR
+$ENDCMP
+#
+$CMP +Vout
+K POWER, PWR
+$ENDCMP
+#
+$CMP +Vout2
+K POWER, PWR
+$ENDCMP
+#
+$CMP +Vreg
+K POWER, PWR
+$ENDCMP
+#
+$CMP 0.100_1X4
+D Connector 01x04
+$ENDCMP
+#
+$CMP 1x1
+D Connector 01x01
+$ENDCMP
+#
+$CMP 22-27-2021
+D Connector 01x02
+$ENDCMP
+#
+$CMP 22-27-2031
+D Connector 01x03
+$ENDCMP
+#
+$CMP 22-27-2041
+D Connector 01x04
+$ENDCMP
+#
+$CMP CONN_01X01
+D Connector 01x01
+$ENDCMP
+#
+$CMP CONN_02X02
+D Connector 02x02
+$ENDCMP
+#
+$CMP Fiducial_Top
+D Top side fiducial
+$ENDCMP
+#
+$CMP Jumper_NO
+D Jumper, normally open
+K jumper link bridge
+$ENDCMP
+#
+$CMP MINIFIT_2x4
+D Connector 02x04
+$ENDCMP
+#
+#End Doc Library

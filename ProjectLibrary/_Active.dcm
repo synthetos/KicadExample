@@ -1,0 +1,76 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC125
+D Quad Buffer and Level Shifter
+K TTL DECOD DECOD8
+$ENDCMP
+#
+$CMP AP2210K-3.3TRG1
+D 300 mA Low Dropout Voltage Regulator, Fixed Output, SOT-23-5
+K 300mA LDO Regulator Fixed Positive
+$ENDCMP
+#
+$CMP AP2210K-5.0TRG1
+D 300 mA Low Dropout Voltage Regulator, Fixed Output, SOT-23-5
+K 300mA LDO Regulator Fixed Positive
+$ENDCMP
+#
+$CMP AZ1117
+D Fixed/Adjustable 1A Low Dropout regulator, Positive
+K REGULATOR LDO 1.5V 1.8V 2.5V 3.3V 5V
+F http://www.diodes.com/datasheets/AP1117.pdf
+$ENDCMP
+#
+$CMP BSS138
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP BSS84
+D 50V Vds, 0.22A Id, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS84.pdf
+$ENDCMP
+#
+$CMP DMG3402L
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP L78L12ABUTR
+D 100 mA Voltage Regulator, Fixed Output 12V, SOT-89
+K 100mA Regulator Fixed Positive
+$ENDCMP
+#
+$CMP LM324
+D Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lm2902-n.pdf
+$ENDCMP
+#
+$CMP LM334M
+D 1μA to 10mA 3-Terminal Adjustable Current Source, SO-8
+K Adjustable Current Source 10mA
+F http://www.ti.com/lit/ds/symlink/lm134.pdf
+$ENDCMP
+#
+$CMP MCP6004
+D Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lm2902-n.pdf
+$ENDCMP
+#
+$CMP NCP160AMX330TBG
+D 300 mA Low Dropout Voltage Regulator, Fixed Output 1.2V, SC-70-4
+K 300mA LDO Regulator Fixed Positive
+F http://www.tme.eu/fr/Document/ced3461ed31ea70a3c416fb648e0cde7/APE8865-3.pdf
+$ENDCMP
+#
+$CMP PSMN7R0-60YS,115
+D 60V Vds, 89A Id, MOSFET, SO-8
+K N-Channel MOSFET
+$ENDCMP
+#
+#End Doc Library

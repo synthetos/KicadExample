@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name _Active)(type KiCad)(uri "$(KIPRJMOD)/ProjectLibrary/_Active.pretty")(options "")(descr ""))
+  (lib (name _Archive)(type KiCad)(uri "$(KIPRJMOD)/ProjectLibrary/_Archive.pretty")(options "")(descr ""))
+  (lib (name _Connector)(type KiCad)(uri "$(KIPRJMOD)/ProjectLibrary/_Connector.pretty")(options "")(descr ""))
+  (lib (name _Passive)(type KiCad)(uri "$(KIPRJMOD)/ProjectLibrary/_Passive.pretty")(options "")(descr ""))
+)
