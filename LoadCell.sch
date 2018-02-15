@@ -31,15 +31,16 @@ LIBS:valves
 LIBS:_Active
 LIBS:_Connector
 LIBS:_Passive
+LIBS:LoadCell-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "LoadCell Amplifier Circuit"
+Date "15-Feb-2018"
+Rev "revA"
+Comp "Ten Mile Square"
 Comment1 ""
 Comment2 ""
 Comment3 ""
