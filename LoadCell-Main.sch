@@ -123,10 +123,6 @@ F 3 "" H 8200 -300 50  0000 C CNN
 	1    8200 900 
 	1    0    0    -1  
 $EndComp
-Text Label 7800 950  0    40   ~ 0
-Vcc
-Text Label 8500 950  0    40   ~ 0
-Vout
 $Comp
 L 0.100_1X4 J4
 U 1 1 5A85E78B
@@ -138,14 +134,6 @@ F 3 "" H 5600 1850 50  0000 C CNN
 	1    5600 1850
 	0    -1   1    0   
 $EndComp
-Text Label 5450 1350 3    40   ~ 0
-RED
-Text Label 5550 1350 3    40   ~ 0
-BLK
-Text Label 5750 1350 3    40   ~ 0
-GRN
-Text Label 5850 1500 0    40   ~ 0
-WHT
 Wire Wire Line
 	5050 950  5050 1700
 Connection ~ 8200 2200
@@ -260,7 +248,7 @@ L R R8
 U 1 1 5ADD42E4
 P 7950 1950
 F 0 "R8" V 8030 1950 50  0000 C CNN
-F 1 "270K" V 7950 1950 50  0000 C CNN
+F 1 "390K" V 7950 1950 50  0000 C CNN
 F 2 "_Passive:R_0603" V 7880 1950 50  0001 C CNN
 F 3 "" H 7950 1950 50  0000 C CNN
 	1    7950 1950
@@ -508,7 +496,7 @@ L R R6
 U 1 1 5ADD84E6
 P 3850 1950
 F 0 "R6" V 3930 1950 50  0000 C CNN
-F 1 "270K" V 3850 1950 50  0000 C CNN
+F 1 "390K" V 3850 1950 50  0000 C CNN
 F 2 "_Passive:R_0603" V 3780 1950 50  0001 C CNN
 F 3 "" H 3850 1950 50  0000 C CNN
 	1    3850 1950
@@ -652,10 +640,6 @@ F 3 "" H 8150 1300 50  0000 C CNN
 	1    8150 2500
 	1    0    0    -1  
 $EndComp
-Text Label 7750 2550 0    40   ~ 0
-Vcc
-Text Label 8450 2550 0    40   ~ 0
-Vout
 $Comp
 L 0.100_1X4 J8
 U 1 1 5ADD8844
@@ -667,14 +651,6 @@ F 3 "" H 5550 3450 50  0000 C CNN
 	1    5550 3450
 	0    -1   1    0   
 $EndComp
-Text Label 5400 2950 3    40   ~ 0
-RED
-Text Label 5500 2950 3    40   ~ 0
-BLK
-Text Label 5700 2950 3    40   ~ 0
-GRN
-Text Label 5800 3100 0    40   ~ 0
-WHT
 Wire Wire Line
 	5000 2550 5000 3300
 Connection ~ 8150 3800
@@ -756,7 +732,7 @@ L R R16
 U 1 1 5ADD8878
 P 7900 3550
 F 0 "R16" V 7980 3550 50  0000 C CNN
-F 1 "270K" V 7900 3550 50  0000 C CNN
+F 1 "390K" V 7900 3550 50  0000 C CNN
 F 2 "_Passive:R_0603" V 7830 3550 50  0001 C CNN
 F 3 "" H 7900 3550 50  0000 C CNN
 	1    7900 3550
@@ -900,10 +876,6 @@ F 3 "" H 4050 1300 50  0000 C CNN
 	1    4050 2500
 	1    0    0    -1  
 $EndComp
-Text Label 3650 2550 0    40   ~ 0
-Vcc
-Text Label 4350 2550 0    40   ~ 0
-Vout
 $Comp
 L 0.100_1X4 J7
 U 1 1 5ADD88CE
@@ -915,14 +887,6 @@ F 3 "" H 1450 3450 50  0000 C CNN
 	1    1450 3450
 	0    -1   1    0   
 $EndComp
-Text Label 1300 2950 3    40   ~ 0
-RED
-Text Label 1400 2950 3    40   ~ 0
-BLK
-Text Label 1600 2950 3    40   ~ 0
-GRN
-Text Label 1700 3100 0    40   ~ 0
-WHT
 Wire Wire Line
 	900  2550 900  3300
 Connection ~ 4050 3800
@@ -1004,7 +968,7 @@ L R R14
 U 1 1 5ADD8902
 P 3800 3550
 F 0 "R14" V 3880 3550 50  0000 C CNN
-F 1 "270K" V 3800 3550 50  0000 C CNN
+F 1 "390K" V 3800 3550 50  0000 C CNN
 F 2 "_Passive:R_0603" V 3730 3550 50  0001 C CNN
 F 3 "" H 3800 3550 50  0000 C CNN
 	1    3800 3550
@@ -1148,10 +1112,6 @@ F 3 "" H 8150 2900 50  0000 C CNN
 	1    8150 4100
 	1    0    0    -1  
 $EndComp
-Text Label 7750 4150 0    40   ~ 0
-Vcc
-Text Label 8450 4150 0    40   ~ 0
-Vout
 $Comp
 L 0.100_1X4 J12
 U 1 1 5ADD90EE
@@ -1163,14 +1123,6 @@ F 3 "" H 5550 5050 50  0000 C CNN
 	1    5550 5050
 	0    -1   1    0   
 $EndComp
-Text Label 5400 4550 3    40   ~ 0
-RED
-Text Label 5500 4550 3    40   ~ 0
-BLK
-Text Label 5700 4550 3    40   ~ 0
-GRN
-Text Label 5800 4700 0    40   ~ 0
-WHT
 Wire Wire Line
 	5000 4150 5000 4900
 Connection ~ 8150 5400
@@ -1252,7 +1204,7 @@ L R R24
 U 1 1 5ADD9122
 P 7900 5150
 F 0 "R24" V 7980 5150 50  0000 C CNN
-F 1 "270K" V 7900 5150 50  0000 C CNN
+F 1 "390K" V 7900 5150 50  0000 C CNN
 F 2 "_Passive:R_0603" V 7830 5150 50  0001 C CNN
 F 3 "" H 7900 5150 50  0000 C CNN
 	1    7900 5150
@@ -1396,10 +1348,6 @@ F 3 "" H 4050 2900 50  0000 C CNN
 	1    4050 4100
 	1    0    0    -1  
 $EndComp
-Text Label 3650 4150 0    40   ~ 0
-Vcc
-Text Label 4350 4150 0    40   ~ 0
-Vout
 $Comp
 L 0.100_1X4 J11
 U 1 1 5ADD9178
@@ -1411,14 +1359,6 @@ F 3 "" H 1450 5050 50  0000 C CNN
 	1    1450 5050
 	0    -1   1    0   
 $EndComp
-Text Label 1300 4550 3    40   ~ 0
-RED
-Text Label 1400 4550 3    40   ~ 0
-BLK
-Text Label 1600 4550 3    40   ~ 0
-GRN
-Text Label 1700 4700 0    40   ~ 0
-WHT
 Wire Wire Line
 	900  4150 900  4900
 Connection ~ 4050 5400
@@ -1500,7 +1440,7 @@ L R R22
 U 1 1 5ADD91AC
 P 3800 5150
 F 0 "R22" V 3880 5150 50  0000 C CNN
-F 1 "270K" V 3800 5150 50  0000 C CNN
+F 1 "390K" V 3800 5150 50  0000 C CNN
 F 2 "_Passive:R_0603" V 3730 5150 50  0001 C CNN
 F 3 "" H 3800 5150 50  0000 C CNN
 	1    3800 5150
@@ -1644,10 +1584,6 @@ F 3 "" H 8100 4500 50  0000 C CNN
 	1    8100 5700
 	1    0    0    -1  
 $EndComp
-Text Label 7700 5750 0    40   ~ 0
-Vcc
-Text Label 8400 5750 0    40   ~ 0
-Vout
 $Comp
 L 0.100_1X4 J16
 U 1 1 5ADD9202
@@ -1659,14 +1595,6 @@ F 3 "" H 5500 6650 50  0000 C CNN
 	1    5500 6650
 	0    -1   1    0   
 $EndComp
-Text Label 5350 6150 3    40   ~ 0
-RED
-Text Label 5450 6150 3    40   ~ 0
-BLK
-Text Label 5650 6150 3    40   ~ 0
-GRN
-Text Label 5750 6300 0    40   ~ 0
-WHT
 Wire Wire Line
 	4950 5750 4950 6500
 Connection ~ 8100 7000
@@ -1748,7 +1676,7 @@ L R R32
 U 1 1 5ADD9236
 P 7850 6750
 F 0 "R32" V 7930 6750 50  0000 C CNN
-F 1 "270K" V 7850 6750 50  0000 C CNN
+F 1 "390K" V 7850 6750 50  0000 C CNN
 F 2 "_Passive:R_0603" V 7780 6750 50  0001 C CNN
 F 3 "" H 7850 6750 50  0000 C CNN
 	1    7850 6750
@@ -1892,10 +1820,6 @@ F 3 "" H 4000 4500 50  0000 C CNN
 	1    4000 5700
 	1    0    0    -1  
 $EndComp
-Text Label 3600 5750 0    40   ~ 0
-Vcc
-Text Label 4300 5750 0    40   ~ 0
-Vout
 $Comp
 L 0.100_1X4 J15
 U 1 1 5ADD928C
@@ -1907,14 +1831,6 @@ F 3 "" H 1400 6650 50  0000 C CNN
 	1    1400 6650
 	0    -1   1    0   
 $EndComp
-Text Label 1250 6150 3    40   ~ 0
-RED
-Text Label 1350 6150 3    40   ~ 0
-BLK
-Text Label 1550 6150 3    40   ~ 0
-GRN
-Text Label 1650 6300 0    40   ~ 0
-WHT
 Wire Wire Line
 	850  5750 850  6500
 Connection ~ 4000 7000
@@ -1996,7 +1912,7 @@ L R R30
 U 1 1 5ADD92C0
 P 3750 6750
 F 0 "R30" V 3830 6750 50  0000 C CNN
-F 1 "270K" V 3750 6750 50  0000 C CNN
+F 1 "390K" V 3750 6750 50  0000 C CNN
 F 2 "_Passive:R_0603" V 3680 6750 50  0001 C CNN
 F 3 "" H 3750 6750 50  0000 C CNN
 	1    3750 6750
