@@ -34,11 +34,11 @@ LIBS:_Passive
 LIBS:LoadCell-cache
 EELAYER 25 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 2 2
 Title "LoadCell Amplifier Circuit"
-Date "22-APR-2018"
+Date "24-APR-2018"
 Rev "revB"
 Comp "Ten Mile Square"
 Comment1 ""
