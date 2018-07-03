@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD9B3.3ST5G
+D Double Diode Schottky (Series)
+K DEV DIODE
+$ENDCMP
+#
+$CMP L_BK1005HM471-T
+D Inductor
+$ENDCMP
+#
+#End Doc Library

@@ -22,3 +22,4 @@ _autosave-*
 
 # Other files worth ignoring
 .DS_Store
+*.zip

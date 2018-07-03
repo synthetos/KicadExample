@@ -1,0 +1,8 @@
+(module HostConnector_TH (layer F.Cu) (tedit 5762B659)
+  (fp_text reference J** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value HostConnector_TH (at 0 -5.08) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
